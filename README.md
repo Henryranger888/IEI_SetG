@@ -1,4 +1,4 @@
-# IEI Gene Prediction Pipeline (No-SMOTE)
+# IEI Gene Prediction Pipeline 
 
 This repository contains a machine-learning pipeline to prioritize candidate inborn errors of immunity (IEI) genes using network embeddings from a protein–protein interaction (PPI) graph (e.g. STRING with Set2Gaussian embeddings).
 
