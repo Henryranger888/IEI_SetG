@@ -15,7 +15,7 @@ The overall goal is to combine network-derived embeddings, curated IEI / non-imm
 ## Repository Structure
 
 - `iei_pipeline_nosmote.py`  
-  Main IEI gene prioritisation pipeline (no SMOTE).
+  Main IEI gene prioritisation pipeline.
 
 - `tsne_iei_embedding.py`  
   t-SNE visualisation of the network embedding, coloured by IEI category.
@@ -51,7 +51,7 @@ File names for the input lists match the code; adjust them if your filenames dif
 
 ---
 
-## 1. IEI Gene Prioritisation Pipeline (No SMOTE)
+## 1. IEI Gene Prioritisation Pipeline
 
 **Script:** `iei_pipeline_nosmote.py`  
 
